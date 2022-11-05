@@ -1,0 +1,19 @@
+.top-section {
+    background-color: black;
+    height: 30vh;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    color: white;
+    padding: 0 10vw 0 10vw;
+}
+.day {
+    color: red;
+    font-weight: bold;
+}
+.card-section {
+    padding: 6vh 10vw 0 10vw;
+    display: flex;
+    justify-content: space-between;
+  }
