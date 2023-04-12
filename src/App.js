@@ -1,6 +1,6 @@
-import React, { PureComponent } from 'react'
-import Homepage from "./components/homepage/hompage"
-import './App.css';
+import React from "react";
+import Homepage from "./components/homepage/hompage";
+import "./App.css";
 
 function App() {
   return (
